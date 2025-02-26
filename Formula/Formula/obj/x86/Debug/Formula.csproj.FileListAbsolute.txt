@@ -1,0 +1,2 @@
+C:\Users\Dell 7400\Documents\Visual Studio 2010\Projects\Formula\Formula\obj\x86\Debug\Formula.Properties.Resources.resources
+C:\Users\Dell 7400\Documents\Visual Studio 2010\Projects\Formula\Formula\obj\x86\Debug\Formula.csproj.GenerateResource.Cache

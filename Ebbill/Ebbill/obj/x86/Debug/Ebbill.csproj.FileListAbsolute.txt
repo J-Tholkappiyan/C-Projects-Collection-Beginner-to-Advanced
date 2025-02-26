@@ -1,0 +1,7 @@
+c:\users\dell 7400\documents\visual studio 2010\Projects\Ebbill\Ebbill\bin\Debug\Ebbill.exe
+c:\users\dell 7400\documents\visual studio 2010\Projects\Ebbill\Ebbill\bin\Debug\Ebbill.pdb
+c:\users\dell 7400\documents\visual studio 2010\Projects\Ebbill\Ebbill\obj\x86\Debug\Ebbill.Form1.resources
+c:\users\dell 7400\documents\visual studio 2010\Projects\Ebbill\Ebbill\obj\x86\Debug\Ebbill.Properties.Resources.resources
+c:\users\dell 7400\documents\visual studio 2010\Projects\Ebbill\Ebbill\obj\x86\Debug\Ebbill.csproj.GenerateResource.Cache
+c:\users\dell 7400\documents\visual studio 2010\Projects\Ebbill\Ebbill\obj\x86\Debug\Ebbill.exe
+c:\users\dell 7400\documents\visual studio 2010\Projects\Ebbill\Ebbill\obj\x86\Debug\Ebbill.pdb
